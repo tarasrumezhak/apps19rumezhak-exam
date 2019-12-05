@@ -39,7 +39,9 @@ public class JsonObject extends Json {
     public JsonObject projection(String... names) {
         JsonObject jObj = new JsonObject();
         for (String name: names) {
-            jObj.add(new JsonPair(name, dict.get(name)));
+            if (dict.containsKey(name)) {
+                jObj.add(new JsonPair(name, dict.get(name)));
+            }
         }
         return jObj;
     }

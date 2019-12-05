@@ -43,6 +43,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="All in exam_ucu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exam_ucu" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BasicStudentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="exam_ucu" />
       <extension name="coverage">
@@ -82,28 +90,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JsonObjectToJsonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="exam_ucu" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="json.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="json" />
-      <option name="MAIN_CLASS_NAME" value="json.JsonObjectToJsonTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.JsonObjectAddFindProjectionTest" />
+        <item itemvalue="JUnit.All in exam_ucu" />
         <item itemvalue="JUnit.BasicStudentTest" />
         <item itemvalue="JUnit.JSONAppTest" />
         <item itemvalue="Application.JSONApp" />
-        <item itemvalue="JUnit.JsonObjectToJsonTest" />
       </list>
     </recent_temporary>
   </component>
@@ -117,7 +110,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575538780154</updated>
-      <workItem from="1575538783253" duration="5464000" />
+      <workItem from="1575538783253" duration="5636000" />
     </task>
     <task id="LOCAL-00001" summary="added app">
       <created>1575543901966</created>
@@ -133,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575544113162</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added app">
+      <created>1575544257740</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575544257740</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
