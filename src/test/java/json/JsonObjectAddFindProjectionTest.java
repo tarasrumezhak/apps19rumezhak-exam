@@ -102,5 +102,4 @@ public class JsonObjectAddFindProjectionTest {
 
         JSONAssert.assertEquals(expectedJSON, jsonObjectProjection.toJson(), true);
     }
-
 }

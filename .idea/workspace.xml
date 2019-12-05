@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="739e0358-d8da-4e85-b04a-757b28a0a96c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/json/JsonObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/json/JsonObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/json/JsonObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/json/JsonObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/json/JsonObjectAddFindProjectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/json/JsonObjectAddFindProjectionTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +34,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.JsonObjectAddFindProjectionTest">
+  <component name="RunManager" selected="JUnit.All in exam_ucu">
     <configuration name="JSONApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JSONApp" />
       <module name="exam_ucu" />
@@ -92,8 +91,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.JsonObjectAddFindProjectionTest" />
         <item itemvalue="JUnit.All in exam_ucu" />
+        <item itemvalue="JUnit.JsonObjectAddFindProjectionTest" />
         <item itemvalue="JUnit.BasicStudentTest" />
         <item itemvalue="JUnit.JSONAppTest" />
         <item itemvalue="Application.JSONApp" />
@@ -110,7 +109,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575538780154</updated>
-      <workItem from="1575538783253" duration="5636000" />
+      <workItem from="1575538783253" duration="5709000" />
     </task>
     <task id="LOCAL-00001" summary="added app">
       <created>1575543901966</created>
@@ -133,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575544257740</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added app">
+      <created>1575544435134</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575544435134</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
