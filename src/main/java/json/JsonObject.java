@@ -42,18 +42,19 @@ public class JsonObject extends Json {
             list.add(new JsonPair(name, dict.get(name)));
         }
 //        return new JsonObject(list);
+        return null;
     }
 
-    public static void main(String[] args) {
-        JsonObject jsonObject = new JsonObject(
-                new JsonPair("name", new JsonString("Anna")),
-                new JsonPair("age", new JsonNumber(18)),
-                new JsonPair("status", new JsonNull()),
-                new JsonPair("age", new JsonNumber(20))
-        );
-
-        String expectedJSON = "{'name': 'Anna', 'age': 20, 'status': null}";
-
-        System.out.println(jsonObject.toJson());
-    }
+//    public static void main(String[] args) {
+//        JsonObject jsonObject = new JsonObject(
+//                new JsonPair("name", new JsonString("Anna")),
+//                new JsonPair("age", new JsonNumber(18)),
+//                new JsonPair("status", new JsonNull()),
+//                new JsonPair("age", new JsonNumber(20))
+//        );
+//
+//        String expectedJSON = "{'name': 'Anna', 'age': 20, 'status': null}";
+//
+//        System.out.println(jsonObject.toJson());
+//    }
 }
