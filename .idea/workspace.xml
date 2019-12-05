@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="739e0358-d8da-4e85-b04a-757b28a0a96c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1UYg872zNNEtrOA4Z0WBnTwNOQL" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.JsonObjectToJsonTest">
+    <configuration name="JSONApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JSONApp" />
+      <module name="exam_ucu" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="json.JsonObject" />
+      <module name="exam_ucu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="json.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonObjectToJsonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exam_ucu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="json.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="json" />
+      <option name="MAIN_CLASS_NAME" value="json.JsonObjectToJsonTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonObjectToJsonTest.testToJsonPairsWithSeveralPairs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exam_ucu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="json.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="json" />
+      <option name="MAIN_CLASS_NAME" value="json.JsonObjectToJsonTest" />
+      <option name="METHOD_NAME" value="testToJsonPairsWithSeveralPairs" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonObjectToJsonTest.testToJsonWithOnePair" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exam_ucu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="json.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="json" />
+      <option name="MAIN_CLASS_NAME" value="json.JsonObjectToJsonTest" />
+      <option name="METHOD_NAME" value="testToJsonWithOnePair" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JsonObjectToJsonTest" />
+        <item itemvalue="Application.JsonObject" />
+        <item itemvalue="Application.JSONApp" />
+        <item itemvalue="JUnit.JsonObjectToJsonTest.testToJsonWithOnePair" />
+        <item itemvalue="JUnit.JsonObjectToJsonTest.testToJsonPairsWithSeveralPairs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="739e0358-d8da-4e85-b04a-757b28a0a96c" name="Default Changelist" comment="" />
+      <created>1575538780154</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575538780154</updated>
+      <workItem from="1575538783253" duration="3662000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
