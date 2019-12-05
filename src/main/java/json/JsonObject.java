@@ -37,12 +37,11 @@ public class JsonObject extends Json {
     }
 
     public JsonObject projection(String... names) {
-        ArrayList<JsonPair> list = new ArrayList<>();
+        JsonObject jObj = new JsonObject();
         for (String name: names) {
-            list.add(new JsonPair(name, dict.get(name)));
+            jObj.add(new JsonPair(name, dict.get(name)));
         }
-//        return new JsonObject(list);
-        return null;
+        return jObj;
     }
 
     public boolean contains(String name) {
