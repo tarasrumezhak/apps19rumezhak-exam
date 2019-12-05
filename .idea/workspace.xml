@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="739e0358-d8da-4e85-b04a-757b28a0a96c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JSONApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JSONApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/domain/BasicStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/domain/BasicStudent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/json/JsonObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/json/JsonObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JSONApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JSONApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/domain/BasicStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/domain/BasicStudent.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/json/JsonObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/json/JsonObject.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,10 +37,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.JSONAppTest">
+  <component name="RunManager" selected="JUnit.BasicStudentTest">
     <configuration name="JSONApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JSONApp" />
       <module name="exam_ucu" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicStudentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exam_ucu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="domain" />
+      <option name="MAIN_CLASS_NAME" value="domain.BasicStudentTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -70,21 +84,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JsonNullTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="exam_ucu" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="json.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="json" />
-      <option name="MAIN_CLASS_NAME" value="json.JsonNullTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="JsonObjectToJsonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="exam_ucu" />
       <extension name="coverage">
@@ -102,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BasicStudentTest" />
         <item itemvalue="JUnit.JSONAppTest" />
         <item itemvalue="Application.JSONApp" />
         <item itemvalue="JUnit.JsonObjectToJsonTest" />
         <item itemvalue="JUnit.JsonBooleanTest" />
-        <item itemvalue="JUnit.JsonNullTest" />
       </list>
     </recent_temporary>
   </component>
@@ -120,8 +119,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575538780154</updated>
-      <workItem from="1575538783253" duration="5092000" />
+      <workItem from="1575538783253" duration="5318000" />
     </task>
+    <task id="LOCAL-00001" summary="added app">
+      <created>1575543901966</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575543901966</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,5 +144,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added app" />
+    <option name="LAST_COMMIT_MESSAGE" value="added app" />
   </component>
 </project>

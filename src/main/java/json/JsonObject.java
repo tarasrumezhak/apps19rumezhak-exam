@@ -45,6 +45,10 @@ public class JsonObject extends Json {
         return null;
     }
 
+    public boolean contains(String name) {
+        return dict.containsKey(name);
+    }
+
 //    public static void main(String[] args) {
 //        JsonObject jsonObject = new JsonObject(
 //                new JsonPair("name", new JsonString("Anna")),
